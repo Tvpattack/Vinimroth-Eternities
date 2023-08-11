@@ -1,0 +1,3100 @@
+[CustomCards]
+	[    {
+	        "name": "Drake Wrangler",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{W/U}{W/U}",
+	        "type": "Creature — Human ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Drake%20Wrangler.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Tofnet Riftstalker",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{W/B}{W/B}",
+	        "type": "Creature — Hyena Scout ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Tofnet%20Riftstalker.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Passage Overseer",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{R/W}{R/W}",
+	        "type": "Creature — Minotaur Scout ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Passage%20Overseer.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Bruin Wanderer",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{G/W}{G/W}",
+	        "type": "Creature — Bear Scout ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Bruin%20Wanderer.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Avakin Riftseeker",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{U/B}{U/B}",
+	        "type": "Creature — Bird Wizard ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Avakin%20Riftseeker.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Untamed Drake",
+	        "rarity": "uncommon",
+	        "mana_cost": "{U/R}{U/R}",
+	        "type": "Creature — Drake ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Untamed%20Drake.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Aeon Awakener",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{B/G}{B/G}",
+	        "type": "Creature — Human Wizard ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Aeon%20Awakener.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Bulwark of the Thicket",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{R/G}{R/G}",
+	        "type": "Creature — Wurm Warrior ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Bulwark%20of%20the%20Thicket.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Multaphs Riftwarden",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{G/U}{G/U}",
+	        "type": "Creature — Elk Shaman ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Multaphs%20Riftwarden.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Rush Down",
+	        "rarity": "common",
+	        "mana_cost": "{1}{R/W}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Rush%20Down.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Purge the Clanless",
+	        "rarity": "common",
+	        "mana_cost": "{3}{W/B}{W/B}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Purge%20the%20Clanless.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Survivors Instinct",
+	        "rarity": "uncommon",
+	        "mana_cost": "{G/W}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Survivors%20Instinct.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Entrance of Hunger",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{W/U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Entrance%20of%20Hunger.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Prismatism",
+	        "rarity": "common",
+	        "mana_cost": "{U/R}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Prismatism.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Aerial Roost",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{U/B}{U/B}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Aerial%20Roost.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Soul Fire",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{B/R}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Soul%20Fire.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Dust to Life",
+	        "rarity": "common",
+	        "mana_cost": "{B/G}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Dust%20to%20Life.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Hired Enforcer",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{W/B}{W/B}",
+	        "type": "Creature — Human Scout Mercenary ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Hired%20Enforcer.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Perplexing Ray",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{U/R}{U/R}",
+	        "type": "Enchantment — Fish Entity ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Perplexing%20Ray.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Clanless Usurper",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{U/R}{U/R}",
+	        "type": "Creature — Human Rogue ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Clanless%20Usurper.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Opportunistic Scavenger",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{B/G}",
+	        "type": "Enchantment — Squirrel Entity ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Opportunistic%20Scavenger.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Outlands Bulwark",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{B/G}{B/G}",
+	        "type": "Creature — Human Warrior ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Outlands%20Bulwark.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Mischievous Fox",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{R/W}",
+	        "type": "Enchantment — Fox Entity ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Mischievous%20Fox.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Roduths Guard",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{R/W}{R/W}",
+	        "type": "Creature — Wurm Warrior ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Roduths%20Guard.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Ageless History",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{G/U}{G/U}",
+	        "type": "Enchantment — Turtle Entity ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Ageless%20History.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Icebound Reinforcements",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{G/U}{G/U}",
+	        "type": "Creature — Human Scout ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Icebound%20Reinforcements.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Blossoming Mentor",
+	        "rarity": "uncommon",
+	        "mana_cost": "{G/W}",
+	        "type": "Creature — Human Cleric Shaman ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Blossoming%20Mentor.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Accord Mentor",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{W/U}{W/U}",
+	        "type": "Creature — Elf Wizard ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Accord%20Mentor.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Eternal Mentor",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{U/B}",
+	        "type": "Creature — Human Zombie Shaman ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Eternal%20Mentor.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Conflict Mentor",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{B/R}{B/R}",
+	        "type": "Creature — Human Warrior ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Conflict%20Mentor.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Outcast Mentor",
+	        "rarity": "uncommon",
+	        "mana_cost": "{R/G}{R/G}",
+	        "type": "Creature — Human Warlock ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Outcast%20Mentor.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Fadove Initiate",
+	        "rarity": "common",
+	        "mana_cost": "{W}",
+	        "type": "Creature — Human Scout ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Fadove%20Initiate.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Fadove Trainer",
+	        "rarity": "common",
+	        "mana_cost": "{W}",
+	        "type": "Creature — Human Warrior Spellshaper ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Fadove%20Trainer.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Trusted Companion",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{W}",
+	        "type": "Creature — Drake ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Trusted%20Companion.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Fadove Tracker",
+	        "rarity": "common",
+	        "mana_cost": "{1}{W}",
+	        "type": "Creature — Hyena Scout Spellshaper ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Fadove%20Tracker.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Outlands Marauder",
+	        "rarity": "common",
+	        "mana_cost": "{2}{W}",
+	        "type": "Creature — Hyena Warrior ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Outlands%20Marauder.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Wandering Soul",
+	        "rarity": "common",
+	        "mana_cost": "{2}{W}",
+	        "type": "Enchantment Creature — Icon Nomad ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Wandering%20Soul.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Fadove Drillmaster",
+	        "rarity": "common",
+	        "mana_cost": "{3}{W}",
+	        "type": "Creature — Hyena Warrior Spellshaper ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Fadove%20Drillmaster.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Oathkeep Wurm",
+	        "rarity": "common",
+	        "mana_cost": "{4}{W}{W}",
+	        "type": "Creature — Wurm Warrior ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Oathkeep%20Wurm.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Drake Rider",
+	        "rarity": "common",
+	        "mana_cost": "{4}{W}",
+	        "type": "Creature — Human Scout ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Drake%20Rider.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Radiant Guide",
+	        "rarity": "uncommon",
+	        "mana_cost": "{4}{W}{W}",
+	        "type": "Enchantment Creature — Icon Cat ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Radiant%20Guide.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Covetous Fox",
+	        "rarity": "common",
+	        "mana_cost": "{1}{U/B}",
+	        "type": "Enchantment — Fox Entity ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Covetous%20Fox.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Rebuke the Foul",
+	        "rarity": "common",
+	        "mana_cost": "{1}{W}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Rebuke%20the%20Foul.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Maddened by Hunger",
+	        "rarity": "common",
+	        "mana_cost": "{2}{W}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Maddened%20by%20Hunger.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Fadove Bodyguard",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{W}",
+	        "type": "Creature — Human Knight ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Fadove%20Bodyguard.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Combat Diviner",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{W}{W}",
+	        "type": "Creature — Wurm Warrior ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Combat%20Diviner.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Frostborn Sentinel",
+	        "rarity": "common",
+	        "mana_cost": "{3}{U}{U}",
+	        "type": "Enchantment Creature — Icon Soldier ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Frostborn%20Sentinel.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Respite Partisan",
+	        "rarity": "common",
+	        "mana_cost": "{2}{U}{U}",
+	        "type": "Enchantment Creature — Icon Elk ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Respite%20Partisan.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Due Dismissal",
+	        "rarity": "common",
+	        "mana_cost": "{1}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Due%20Dismissal.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Denied by Nature",
+	        "rarity": "uncommon",
+	        "mana_cost": "{U}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Denied%20by%20Nature.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Repel the Invasion",
+	        "rarity": "common",
+	        "mana_cost": "{2}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Repel%20the%20Invasion.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Storm Bearer",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{U}",
+	        "type": "Creature — Elf Warlock Spellshaper ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Storm%20Bearer.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Resolute Watcher",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{U}{U}",
+	        "type": "Enchantment Creature — Icon Warlock ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Resolute%20Watcher.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Avakin Sayer",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{U}",
+	        "type": "Creature — Bird Warlock ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Avakin%20Sayer.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Avlod Diviner",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{U}",
+	        "type": "Creature — Human Wizard ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Avlod%20Diviner.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Aspiring Mount",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{U}{U}",
+	        "type": "Creature — Drake ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Aspiring%20Mount.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Cooing Foundling",
+	        "rarity": "common",
+	        "mana_cost": "{B}",
+	        "type": "Creature — Bird Scout ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Cooing%20Foundling.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Avakin Avenger",
+	        "rarity": "common",
+	        "mana_cost": "{1}{B}",
+	        "type": "Creature — Bird Warrior Spellshaper ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Avakin%20Avenger.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Gateway Guardian",
+	        "rarity": "common",
+	        "mana_cost": "{1}{B}",
+	        "type": "Creature — Human Warrior Spellshaper ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Gateway%20Guardian.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Avakin Riftwalker",
+	        "rarity": "common",
+	        "mana_cost": "{2}{B}",
+	        "type": "Creature — Bird Warlock ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Avakin%20Riftwalker.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Rift Tender",
+	        "rarity": "common",
+	        "mana_cost": "{2}{B}",
+	        "type": "Creature — Human Shaman Spellshaper ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Rift%20Tender.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Waking Words",
+	        "rarity": "common",
+	        "mana_cost": "{2}{B}{B}",
+	        "type": "Enchantment Creature — Icon Rogue ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Waking%20Words.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Avakin Cleaner",
+	        "rarity": "common",
+	        "mana_cost": "{2}{B}",
+	        "type": "Creature — Bird Scout ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Avakin%20Cleaner.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Avakin Assaulter",
+	        "rarity": "common",
+	        "mana_cost": "{3}{B}{B}",
+	        "type": "Creature — Bird Warrior ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Avakin%20Assaulter.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Scornful Pursuit",
+	        "rarity": "uncommon",
+	        "mana_cost": "{4}{B}",
+	        "type": "Enchantment Creature — Icon Rogue ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Scornful%20Pursuit.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Left for the Crows",
+	        "rarity": "common",
+	        "mana_cost": "{3}{B}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Left%20for%20the%20Crows.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Weight of Betrayal",
+	        "rarity": "common",
+	        "mana_cost": "{B}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Weight%20of%20Betrayal.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Iconic Resurgence",
+	        "rarity": "common",
+	        "mana_cost": "{B}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Iconic%20Resurgence.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Avlod Necklace",
+	        "rarity": "common",
+	        "mana_cost": "{B}",
+	        "type": "Artifact — Equipment ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Avlod%20Necklace.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Avakin Mentor",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{B}{B}",
+	        "type": "Creature — Bird Wizard Spellshaper ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Avakin%20Mentor.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Shaman of Rites Lost",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{B}",
+	        "type": "Creature — Human Warlock ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Shaman%20of%20Rites%20Lost.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Avakin Hireblade",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{B}{B}",
+	        "type": "Creature — Bird Mercenary ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Avakin%20Hireblade.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Frontline Assaulter",
+	        "rarity": "common",
+	        "mana_cost": "{R}",
+	        "type": "Creature — Minotaur Warrior Spellshaper ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Frontline%20Assaulter.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Minotaur Riftcaller",
+	        "rarity": "common",
+	        "mana_cost": "{1}{R}",
+	        "type": "Creature — Minotaur Shaman ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Minotaur%20Riftcaller.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Fervent Incandescence",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{R}",
+	        "type": "Enchantment Creature — Icon Wizard ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Fervent%20Incandescence.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Mordel Patrol",
+	        "rarity": "common",
+	        "mana_cost": "{2}{R}",
+	        "type": "Creature — Human Warrior ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Mordel%20Patrol.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Tenuous Empowerment",
+	        "rarity": "common",
+	        "mana_cost": "{1}{R}{R}",
+	        "type": "Enchantment Creature — Icon Wizard ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Tenuous%20Empowerment.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Mordel Drillmaster",
+	        "rarity": "common",
+	        "mana_cost": "{3}{R}{R}",
+	        "type": "Creature — Minotaur Warrior Spellshaper ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Mordel%20Drillmaster.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Verem-Volcano Rumbler",
+	        "rarity": "common",
+	        "mana_cost": "{3}{R}",
+	        "type": "Creature — Wurm Warrior ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Verem-Volcano%20Rumbler.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Stalking Entity",
+	        "rarity": "common",
+	        "mana_cost": "{1}{R/G}{R/G}",
+	        "type": "Enchantment — Cat Entity ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Stalking%20Entity.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Iconic Resolution",
+	        "rarity": "common",
+	        "mana_cost": "{1}{R}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Iconic%20Resolution.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Conscripted by the Clanless",
+	        "rarity": "common",
+	        "mana_cost": "{2}{R}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Conscripted%20by%20the%20Clanless.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Clanless Destruction",
+	        "rarity": "common",
+	        "mana_cost": "{R}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Clanless%20Destruction.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Unexpected Discovery",
+	        "rarity": "common",
+	        "mana_cost": "{2}{R}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Unexpected%20Discovery.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Brood Protector",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{R}{R}",
+	        "type": "Enchantment Creature — Icon Wurm ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Brood%20Protector.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Minotaur Outlander",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{R}{R}",
+	        "type": "Creature — Minotaur Warrior Spellshaper ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Minotaur%20Outlander.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Mordel Excursionist",
+	        "rarity": "uncommon",
+	        "mana_cost": "{R}",
+	        "type": "Creature — Human Scout Spellshaper ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Mordel%20Excursionist.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Lavaskimmer Wurm",
+	        "rarity": "common",
+	        "mana_cost": "{4}{R}{R}",
+	        "type": "Creature — Wurm Shaman ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Lavaskimmer%20Wurm.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Torch",
+	        "rarity": "uncommon",
+	        "mana_cost": "{R}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Torch.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Farming Wurm",
+	        "rarity": "common",
+	        "mana_cost": "{G}",
+	        "type": "Creature — Wurm Shaman ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Farming%20Wurm.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Awakened Harmony",
+	        "rarity": "common",
+	        "mana_cost": "{2}{G}",
+	        "type": "Enchantment Creature — Icon Druid ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Awakened%20Harmony.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Mordel Formgiver",
+	        "rarity": "common",
+	        "mana_cost": "{2}{G}",
+	        "type": "Creature — Wurm Warlock ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Mordel%20Formgiver.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Outlands Diviner",
+	        "rarity": "common",
+	        "mana_cost": "{3}{G}",
+	        "type": "Creature — Wurm Warlock Spellshaper ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Outlands%20Diviner.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Bruin Clankeeper",
+	        "rarity": "common",
+	        "mana_cost": "{3}{G}",
+	        "type": "Creature — Bear Warrior ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Bruin%20Clankeeper.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Multaphs Watch",
+	        "rarity": "common",
+	        "mana_cost": "{4}{G}",
+	        "type": "Creature — Elk ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Multaphs%20Watch.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Progeny of Mordel",
+	        "rarity": "common",
+	        "mana_cost": "{4}{G}{G}",
+	        "type": "Creature — Wurm Warrior ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Progeny%20of%20Mordel.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Iconic Altercation",
+	        "rarity": "common",
+	        "mana_cost": "{1}{G}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Iconic%20Altercation.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Boon of Roduth",
+	        "rarity": "common",
+	        "mana_cost": "{G}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Boon%20of%20Roduth.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Ripped into Eternity",
+	        "rarity": "common",
+	        "mana_cost": "{1}{G}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Ripped%20into%20Eternity.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Rifttouched Ursine",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{G}",
+	        "type": "Creature — Bear Shaman ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Rifttouched%20Ursine.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Triumphant Riftcaller",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{G}{G}",
+	        "type": "Creature — Bear Berserker ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Triumphant%20Riftcaller.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Forest Assailant",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{G}{G}",
+	        "type": "Enchantment Creature — Icon Barbarian ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Forest%20Assailant.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Progeny of Bruin",
+	        "rarity": "uncommon",
+	        "mana_cost": "{4}{G}{G}{G}",
+	        "type": "Creature — Wurm Shaman ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Progeny%20of%20Bruin.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Rippling Crustacean",
+	        "rarity": "common",
+	        "mana_cost": "{2}",
+	        "type": "Creature — Crab ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Rippling%20Crustacean.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Starbright Entity",
+	        "rarity": "common",
+	        "mana_cost": "{2}",
+	        "type": "Enchantment — Cat Entity ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Starbright%20Entity.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Aspiring Entity",
+	        "rarity": "common",
+	        "mana_cost": "{4}",
+	        "type": "Enchantment — Elk Entity ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Aspiring%20Entity.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Wings of New Horizons",
+	        "rarity": "common",
+	        "mana_cost": "{1}",
+	        "type": "Artifact — Equipment ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Wings%20of%20New%20Horizons.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Rip to Tomorrow",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Rip%20to%20Tomorrow.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Powerstone Claw",
+	        "rarity": "common",
+	        "mana_cost": "{1}",
+	        "type": "Artifact",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Powerstone%20Claw.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Wandering Entity",
+	        "rarity": "common",
+	        "mana_cost": "{1}",
+	        "type": "Enchantment — Cat Entity ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Wandering%20Entity.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Pinnacle Skitter",
+	        "rarity": "common",
+	        "mana_cost": "{4}",
+	        "type": "Creature — Snake ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Pinnacle%20Skitter.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Tidepool Scuttler",
+	        "rarity": "uncommon",
+	        "mana_cost": "{6}",
+	        "type": "Creature — Octopus Fish ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Tidepool%20Scuttler.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Explorers Compass",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}",
+	        "type": "Artifact — Equipment ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Explorers%20Compass.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Pinnacle Wanderer",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{2/W}",
+	        "type": "Creature — Incarnation ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Pinnacle%20Wanderer.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Frostnip Watcher",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{2/U}",
+	        "type": "Creature — Incarnation ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Frostnip%20Watcher.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Shroud Walkers",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{2}{2/B}",
+	        "type": "Creature — Nightmare ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Shroud%20Walkers.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Verem-Volcano Stalker",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{2}{2/R}",
+	        "type": "Creature — Incarnation ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Verem-Volcano%20Stalker.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Power of Oath",
+	        "rarity": "common",
+	        "mana_cost": "{W}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Power%20of%20Oath.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Iconic Absolution",
+	        "rarity": "common",
+	        "mana_cost": "{2}{W}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Iconic%20Absolution.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Wipe the Wicked",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{W}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Wipe%20the%20Wicked.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Stalwart Resolution",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{W}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Stalwart%20Resolution.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Fadove Willshaper",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{W}",
+	        "type": "Creature — Human Cleric Spellshaper ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Fadove%20Willshaper.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Returned from Beyond",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{B}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Returned%20from%20Beyond.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Rift Burn",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{R}{R}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Rift%20Burn.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Scouts Bow",
+	        "rarity": "uncommon",
+	        "mana_cost": "{G}",
+	        "type": "Artifact — Equipment ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Scouts%20Bow.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Windshaper Drake",
+	        "rarity": "common",
+	        "mana_cost": "{1}{U}",
+	        "type": "Enchantment Creature — Drake ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Windshaper%20Drake.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Study the Rifts",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{U}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Study%20the%20Rifts.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Blessing of Uth",
+	        "rarity": "common",
+	        "mana_cost": "{1}{G}",
+	        "type": "Artifact — Equipment ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Blessing%20of%20Uth.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Multaphs Resplendant",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{G}",
+	        "type": "Enchantment Creature — Icon Elk ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Multaphs%20Resplendant.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Bruin Outlander",
+	        "rarity": "common",
+	        "mana_cost": "{1}{G}",
+	        "type": "Creature — Bear Scout ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Bruin%20Outlander.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Dark Lessons",
+	        "rarity": "common",
+	        "mana_cost": "{3}{B}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Dark%20Lessons.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Chromaboon Blade",
+	        "rarity": "uncommon",
+	        "mana_cost": "{R}",
+	        "type": "Artifact — Equipment ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Chromaboon%20Blade.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Towering Protector",
+	        "rarity": "common",
+	        "mana_cost": "{2}{R}{R}",
+	        "type": "Artifact Creature — Construct ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Towering%20Protector.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Sage of the Aeons",
+	        "rarity": "uncommon",
+	        "mana_cost": "{B/R}{B/R}",
+	        "type": "Creature — Human Warlock ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Sage%20of%20the%20Aeons.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Avakin Opportunist",
+	        "rarity": "common",
+	        "mana_cost": "{1}{U}",
+	        "type": "Creature — Bird Warlock ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Avakin%20Opportunist.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Sage of Truths",
+	        "rarity": "common",
+	        "mana_cost": "{U}",
+	        "type": "Creature — Elf Shaman Spellshaper ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Sage%20of%20Truths.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Stalwart Guard",
+	        "rarity": "common",
+	        "mana_cost": "{2}{W/U}{W/U}",
+	        "type": "Enchantment — Wolf Entity ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Stalwart%20Guard.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Outlands Wanderer",
+	        "rarity": "common",
+	        "mana_cost": "{1}{U}",
+	        "type": "Creature — Human Scout Spellshaper ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Outlands%20Wanderer.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Frostborn Glimmer",
+	        "rarity": "common",
+	        "mana_cost": "{2}{U}",
+	        "type": "Enchantment Creature — Icon Bird ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Frostborn%20Glimmer.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Kaln-Ocean Cloak",
+	        "rarity": "common",
+	        "mana_cost": "{U}",
+	        "type": "Artifact — Equipment ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Kaln-Ocean%20Cloak.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Suffused Memories",
+	        "rarity": "common",
+	        "mana_cost": "{1}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Suffused%20Memories.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Search For Wisdom",
+	        "rarity": "common",
+	        "mana_cost": "{2}{U}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Search%20For%20Wisdom.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Avakin Watcher",
+	        "rarity": "common",
+	        "mana_cost": "{3}{U}",
+	        "type": "Creature — Bird Warlock Spellshaper ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Avakin%20Watcher.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Transient Eternity",
+	        "rarity": "common",
+	        "mana_cost": "{1}{W/U}{W/U}",
+	        "type": "Enchantment Creature — Icon Wizard ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Transient%20Eternity.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Abrupt Death",
+	        "rarity": "common",
+	        "mana_cost": "{2}{U/B}{U/B}",
+	        "type": "Enchantment Creature — Icon Scout ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Abrupt%20Death.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Fleeting Ruin",
+	        "rarity": "common",
+	        "mana_cost": "{B/R}{B/R}",
+	        "type": "Enchantment Creature — Icon Rogue ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Fleeting%20Ruin.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Impetuous Eradication",
+	        "rarity": "common",
+	        "mana_cost": "{2}{R/G}{R/G}",
+	        "type": "Enchantment Creature — Icon Berserker ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Impetuous%20Eradication.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Ephemeral Ordinance",
+	        "rarity": "common",
+	        "mana_cost": "{3}{G/W}{G/W}",
+	        "type": "Enchantment Creature — Icon Warrior ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Ephemeral%20Ordinance.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Vanishing Resolve",
+	        "rarity": "common",
+	        "mana_cost": "{W/B}{W/B}",
+	        "type": "Enchantment Creature — Icon Warlock ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Vanishing%20Resolve.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Cursory Casualty",
+	        "rarity": "common",
+	        "mana_cost": "{1}{B/G}{B/G}",
+	        "type": "Enchantment Creature — Icon Warlock ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Cursory%20Casualty.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Transitory Refuge",
+	        "rarity": "common",
+	        "mana_cost": "{3}{G/U}{G/U}",
+	        "type": "Enchantment Creature — Icon Nomad ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Transitory%20Refuge.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Evanescent Impasse",
+	        "rarity": "common",
+	        "mana_cost": "{1}{U/R}{U/R}",
+	        "type": "Enchantment Creature — Icon Mystic ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Evanescent%20Impasse.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Sublime Liquidation",
+	        "rarity": "common",
+	        "mana_cost": "{1}{R/W}{R/W}",
+	        "type": "Enchantment Creature — Icon Warrior ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Sublime%20Liquidation.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Mistblade Rogue",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{B}{B}",
+	        "type": "Enchantment Creature — Icon Rogue ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Mistblade%20Rogue.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Manifesting Ardor",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{G}",
+	        "type": "Enchantment Creature — Icon Druid ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Manifesting%20Ardor.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Prismatic Powerstone",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}",
+	        "type": "Artifact",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Prismatic%20Powerstone.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Razorshell Drake",
+	        "rarity": "common",
+	        "mana_cost": "{4}{U}{U}",
+	        "type": "Creature — Drake Turtle ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Razorshell%20Drake.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Verem-Volcano Warrior",
+	        "rarity": "uncommon",
+	        "mana_cost": "{4}{R}{R}",
+	        "type": "Creature — Wurm Warrior ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Verem-Volcano%20Warrior.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Outlands Protector",
+	        "rarity": "uncommon",
+	        "mana_cost": "{G}",
+	        "type": "Creature — Human Mercenary Spellshaper ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Outlands%20Protector.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Smoldering Entity",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{R}",
+	        "type": "Enchantment — Dragon Entity ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Smoldering%20Entity.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Skywatch Entity",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{U}",
+	        "type": "Enchantment — Bird Entity ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Skywatch%20Entity.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Giants Blade",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{W}{W}",
+	        "type": "Artifact — Equipment ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Giants%20Blade.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Voidborn Entity",
+	        "rarity": "common",
+	        "mana_cost": "{1}{B/R}",
+	        "type": "Enchantment — Rat Entity ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Voidborn%20Entity.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Chittering Entity",
+	        "rarity": "common",
+	        "mana_cost": "{G/W}",
+	        "type": "Enchantment — Squirrel Entity ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Chittering%20Entity.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Riftborn Flames",
+	        "rarity": "common",
+	        "mana_cost": "{3}{R}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Riftborn%20Flames.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Shining Idol",
+	        "rarity": "common",
+	        "mana_cost": "{1}{W}",
+	        "type": "Enchantment Creature — Icon Cleric ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Shining%20Idol.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Triumphant Entrance",
+	        "rarity": "common",
+	        "mana_cost": "{2}{W}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Triumphant%20Entrance.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Midnight Raven",
+	        "rarity": "uncommon",
+	        "mana_cost": "{W/B}",
+	        "type": "Enchantment — Bird Entity ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Midnight%20Raven.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Outlands Riftbearer",
+	        "rarity": "common",
+	        "mana_cost": "{1}{W}",
+	        "type": "Creature — Human Warlock Spellshaper ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Outlands%20Riftbearer.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Mordel Clanwarden",
+	        "rarity": "common",
+	        "mana_cost": "{1}{G}",
+	        "type": "Creature — Human Scout ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Mordel%20Clanwarden.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Warden of the Lost",
+	        "rarity": "common",
+	        "mana_cost": "{1}{B}",
+	        "type": "Creature — Human Shaman ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Warden%20of%20the%20Lost.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Warforged Herald",
+	        "rarity": "common",
+	        "mana_cost": "{1}{R}",
+	        "type": "Creature — Human Warrior Spellshaper ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Warforged%20Herald.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Iconic Incident",
+	        "rarity": "common",
+	        "mana_cost": "{1}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Iconic%20Incident.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Mordel Warrior",
+	        "rarity": "common",
+	        "mana_cost": "{1}{G}",
+	        "type": "Creature — Bear Warrior Spellshaper ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Mordel%20Warrior.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Keeper of Calm",
+	        "rarity": "common",
+	        "mana_cost": "{2}{G}",
+	        "type": "Creature — Bear Shaman Spellshaper ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Keeper%20of%20Calm.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Avlod Bulwark",
+	        "rarity": "common",
+	        "mana_cost": "{4}{B}{B}",
+	        "type": "Creature — Human Warlock Spellshaper ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Avlod%20Bulwark.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Faloden Thickets",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{2}{2/G}",
+	        "type": "Creature — Plant ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Faloden%20Thickets.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Faloden Tear-Warden",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}",
+	        "type": "Creature — Beast ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Faloden%20Tear-Warden.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Tofnet Predator",
+	        "rarity": "uncommon",
+	        "mana_cost": "4",
+	        "type": "Creature — Insect ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Tofnet%20Predator.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Remnant Awakener",
+	        "rarity": "common",
+	        "mana_cost": "{5}",
+	        "type": "Creature — Nightmare ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Remnant%20Awakener.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Waterspout",
+	        "rarity": "common",
+	        "mana_cost": "{1}{G/U}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Waterspout.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Malevolent Naginata",
+	        "rarity": "uncommon",
+	        "mana_cost": "{B}",
+	        "type": "Artifact — Equipment ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Malevolent%20Naginata.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Skillful Blade",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{U}",
+	        "type": "Artifact — Equipment ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Skillful%20Blade.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Tattered Entity",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{B}",
+	        "type": "Enchantment — Skeleton Spirit Entity ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Tattered%20Entity.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Crowned Entity",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{G}{G}",
+	        "type": "Enchantment — Elk Entity ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Crowned%20Entity.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Flaming Iron",
+	        "rarity": "common",
+	        "mana_cost": "{1}{R}",
+	        "type": "Artifact — Equipment ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Flaming%20Iron.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Usher of the Lost",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{W}",
+	        "type": "Enchantment — Elk Entity ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Usher%20of%20the%20Lost.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Breaking the Mold",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{R/G}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Breaking%20the%20Mold.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Ruins of Multa",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{W}",
+	        "type": "Legendary Enchantment Artifact",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Ruins%20of%20Multa.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Multaph, Riftborn God",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{U}{B}",
+	        "type": "Legendary Enchantment Creature",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Multaph%20Riftborn%20God.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Will of Roduth",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{R}{R}",
+	        "type": "Creature — God Wurm Reflection ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Will%20of%20Roduth.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Will of Multaph",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{U}",
+	        "type": "Creature — God Elk Reflection ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Will%20of%20Multaph.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Will of Destruction",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{U/R}{U/R}{B}",
+	        "type": "Legendary Enchantment Creature",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Will%20of%20Destruction.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "The Great Tear",
+	        "rarity": "rare",
+	        "mana_cost": "{4}{W}{W}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/The%20Great%20Tear.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Multaphs Respite",
+	        "rarity": "rare",
+	        "mana_cost": "{2/U}{2/R}{2/W}",
+	        "type": "Legendary Enchantment",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Multaphs%20Respite.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "The Wandering Cook",
+	        "rarity": "rare",
+	        "mana_cost": "4",
+	        "type": "Legendary Enchantment Creature — Bird ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/The%20Wandering%20Cook.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Najael, Travelling Shaman",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{G}{U}",
+	        "type": "Legendary Enchantment Creature",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Najael%20Travelling%20Shaman.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Called by the Void",
+	        "rarity": "uncommon",
+	        "mana_cost": "{B}{B}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Called%20by%20the%20Void.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Ruins of Uth",
+	        "rarity": "rare",
+	        "mana_cost": "{4}{G}{G}",
+	        "type": "Legendary Enchantment Artifact",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Ruins%20of%20Uth.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Will of Hunger",
+	        "rarity": "rare",
+	        "mana_cost": "{3}",
+	        "type": "Creature — Reflection ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Will%20of%20Hunger.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Roduth, God of Conflict",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{G}{R/W}{R/W}",
+	        "type": "Legendary Enchantment Creature",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Roduth%20God%20of%20Conflict.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Thargle",
+	        "rarity": "rare",
+	        "mana_cost": "{4}{B}",
+	        "type": "Legendary Creature — Frog Demon ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Thargle.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Rip to Yesterday",
+	        "rarity": "rare",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Rip%20to%20Yesterday.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Bark of Tofnet Plains",
+	        "rarity": "common",
+	        "mana_cost": "5",
+	        "type": "Creature — Plant ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Bark%20of%20Tofnet%20Plains.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Kaln-Ocean Wispop",
+	        "rarity": "common",
+	        "mana_cost": "{1}{2}",
+	        "type": "Creature — Jellyfish ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Kaln-Ocean%20Wispop.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Pathborn Crackle",
+	        "rarity": "common",
+	        "mana_cost": "{2}",
+	        "type": "Creature — Elemental ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Pathborn%20Crackle.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Guardian of Faloden Woods",
+	        "rarity": "common",
+	        "mana_cost": "4{2/G}",
+	        "type": "Creature — Beast ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Guardian%20of%20Faloden%20Woods.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Outlands Froststalker",
+	        "rarity": "common",
+	        "mana_cost": "{2}{2/B}",
+	        "type": "Creature — Cat Beast ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Outlands%20Froststalker.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Fog Walker",
+	        "rarity": "common",
+	        "mana_cost": "{2}",
+	        "type": "Creature — Insect ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Fog%20Walker.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Dromencals Respite",
+	        "rarity": "common",
+	        "mana_cost": "{3}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Dromencals%20Respite.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Outlands Respite",
+	        "rarity": "common",
+	        "mana_cost": "{2}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Outlands%20Respite.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Melodia, Voidtouched",
+	        "rarity": "rare",
+	        "mana_cost": "{6}",
+	        "type": "Legendary Enchantment Creature",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Melodia%20Voidtouched.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Calia, Oracle of Tofnet Plains",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{W}{W}",
+	        "type": "Legendary Enchantment Creature — Icon Wizard ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Calia%20Oracle%20of%20Tofnet%20Plains.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Ola, Kaln-Ocean Spellkeeper",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{U}{U}",
+	        "type": "Legendary Enchantment Creature — Icon Wurm ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Ola%20Kaln-Ocean%20Spellkeeper.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Kier, Acolyte of Avlod Respite",
+	        "rarity": "rare",
+	        "mana_cost": "{3}{B}{B}",
+	        "type": "Legendary Enchantment Creature — Icon Warlock ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Kier%20Acolyte%20of%20Avlod%20Respite.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Vane, Verem-Volcano Scorcher",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{R}{R}",
+	        "type": "Legendary Enchantment Creature — Icon Dragon ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Vane%20Verem-Volcano%20Scorcher.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Somma, Blade of Faloden Woods",
+	        "rarity": "rare",
+	        "mana_cost": "{4}{G}{G}",
+	        "type": "Legendary Enchantment Creature — Icon Giant ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Somma%20Blade%20of%20Faloden%20Woods.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Khestri, Fadove Clanleader",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{W}{W}",
+	        "type": "Legendary Creature — Human Knight ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Khestri%20Fadove%20Clanleader.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Shivta, Avlod Clanleader",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{U/B}{U/B}",
+	        "type": "Legendary Creature — Bird Rogue ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Shivta%20Avlod%20Clanleader.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Urkial, Outlands Clanleader",
+	        "rarity": "rare",
+	        "mana_cost": "{5}",
+	        "type": "Legendary Creature — Bear Shaman ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Urkial%20Outlands%20Clanleader.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Bruin Mentor",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{G}",
+	        "type": "Creature — Bear Scout Spellshaper ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Bruin%20Mentor.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Raze the Clanless",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{R}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Raze%20the%20Clanless.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Prismatic Offense",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{R}{G}",
+	        "type": "Enchantment Creature — Elk Shaman ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Prismatic%20Offense.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Korna, Vinimroth Historian",
+	        "rarity": "rare",
+	        "mana_cost": "{R}{W}",
+	        "type": "Legendary Enchantment — Wurm Entity ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Korna%20Vinimroth%20Historian.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Zoslera, Mordel Clanleader",
+	        "rarity": "rare",
+	        "mana_cost": "{3}{R/G}{R/G}",
+	        "type": "Legendary Creature — Human Knight ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Zoslera%20Mordel%20Clanleader.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Prophellos, Pathborn Hunger",
+	        "rarity": "rare",
+	        "mana_cost": "{5}",
+	        "type": "Legendary Creature — God ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Prophellos%20Pathborn%20Hunger.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Dust for Dust",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{B}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Dust%20for%20Dust.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Pinnacle of Vinimroth",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{R}",
+	        "type": "Legendary Enchantment Artifact",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Pinnacle%20of%20Vinimroth.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Attuned Shimmer",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{W/B}{W/B}{W/B}",
+	        "type": "Enchantment — Cat Entity ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Attuned%20Shimmer.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Bushy Shimmer",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{B/G}{B/G}{B/G}",
+	        "type": "Enchantment — Squirrel Entity ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Bushy%20Shimmer.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Wild Shimmer",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{G/U}{G/U}{G/U}",
+	        "type": "Enchantment — Wolf Entity ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Wild%20Shimmer.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Curious Shimmer",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{U/R}{U/R}{U/R}",
+	        "type": "Enchantment — Wurm Entity ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Curious%20Shimmer.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Pouncing Shimmer",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{R/W}{R/W}{R/W}",
+	        "type": "Enchantment — Cat Entity ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Pouncing%20Shimmer.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Runed Spire",
+	        "rarity": "rare",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Runed%20Spire.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Fadove Pathwarden",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{W}{W}",
+	        "type": "Creature — Human Spellshaper ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Fadove%20Pathwarden.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Path of Insight",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{U}{U}{U}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Path%20of%20Insight.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Path of Revival",
+	        "rarity": "rare",
+	        "mana_cost": "{B}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Path%20of%20Revival.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Keeper of Faloden Woods",
+	        "rarity": "rare",
+	        "mana_cost": "{4}{G}{G}",
+	        "type": "Creature — Wurm Druid ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Keeper%20of%20Faloden%20Woods.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Mistveil Drake",
+	        "rarity": "rare",
+	        "mana_cost": "{5}",
+	        "type": "Creature — Drake ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Mistveil%20Drake.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Mordel Combatant",
+	        "rarity": "rare",
+	        "mana_cost": "{R}",
+	        "type": "Creature — Human Warrior ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Mordel%20Combatant.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Bearer of Change",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{U}{U}",
+	        "type": "Creature — Elf Spellshaper ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Bearer%20of%20Change.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Mordel Razer",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{R}{R}",
+	        "type": "Creature — Human Wizard ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Mordel%20Razer.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Pathborn Aggression",
+	        "rarity": "rare",
+	        "mana_cost": "{B}",
+	        "type": "Enchantment Creature — Icon Warlock ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Pathborn%20Aggression.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Eternities Weaver",
+	        "rarity": "rare",
+	        "mana_cost": "{3}{G}",
+	        "type": "Creature — Human Druid ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Eternities%20Weaver.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Guardian Roost",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{W}",
+	        "type": "Creature — Drake ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Guardian%20Roost.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Path to Restoration",
+	        "rarity": "rare",
+	        "mana_cost": "{3}{W}{W}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Path%20to%20Restoration.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Path to Ages",
+	        "rarity": "rare",
+	        "mana_cost": "{4}{R}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Path%20to%20Ages.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Breach of Protection",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{W}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Breach%20of%20Protection.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Breach of Sanity",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{U}{U}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Breach%20of%20Sanity.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Breach of Malice",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{R}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Breach%20of%20Malice.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Breach of Nature",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{G}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Breach%20of%20Nature.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Breach of Mortality",
+	        "rarity": "rare",
+	        "mana_cost": "{3}{B}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Breach%20of%20Mortality.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Breach of the Unknown",
+	        "rarity": "rare",
+	        "mana_cost": "{3}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Breach%20of%20the%20Unknown.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Path of the Grove",
+	        "rarity": "rare",
+	        "mana_cost": "{G}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Path%20of%20the%20Grove.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Pathborn Drake",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{U}",
+	        "type": "Creature — Drake ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Pathborn%20Drake.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Outlands Pathwarden",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{B}{B}",
+	        "type": "Creature — Bird Warrior ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Outlands%20Pathwarden.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Fadove Reinforcement",
+	        "rarity": "common",
+	        "mana_cost": "{1}{W}",
+	        "type": "Creature — Hyena Warrior ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Fadove%20Reinforcement.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Avlod Pathshaper",
+	        "rarity": "common",
+	        "mana_cost": "{1}{U}",
+	        "type": "Creature — Human Wizard ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Avlod%20Pathshaper.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Outlands Traveller",
+	        "rarity": "common",
+	        "mana_cost": "{3}{B}{B}",
+	        "type": "Creature — Human Warrior ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Outlands%20Traveller.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Mordel Reinforcement",
+	        "rarity": "common",
+	        "mana_cost": "{3}{R}",
+	        "type": "Creature — Minotaur Warrior ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Mordel%20Reinforcement.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Outlands Guardian",
+	        "rarity": "common",
+	        "mana_cost": "{2}{G}",
+	        "type": "Creature — Bear Warrior ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Outlands%20Guardian.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Paths Strider",
+	        "rarity": "common",
+	        "mana_cost": "{3}",
+	        "type": "Creature — Beast ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Paths%20Strider.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Path of the Proud",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{W}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Path%20of%20the%20Proud.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Path of the Roost",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{U}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Path%20of%20the%20Roost.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Path of the Rift",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{B}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Path%20of%20the%20Rift.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Path of the Brood",
+	        "rarity": "uncommon",
+	        "mana_cost": "{R}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Path%20of%20the%20Brood.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Path of the Mighty",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{G}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Path%20of%20the%20Mighty.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Pathbound Bloom",
+	        "rarity": "common",
+	        "mana_cost": "{1}",
+	        "type": "Artifact",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Pathbound%20Bloom.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Vin Plains",
+	        "rarity": "special",
+	        "mana_cost": "",
+	        "type": "Basic Land — Plains ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Vin%20Plains.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Vin Island",
+	        "rarity": "special",
+	        "mana_cost": "",
+	        "type": "Basic Land — Island ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Vin%20Island.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Vin Swamp",
+	        "rarity": "special",
+	        "mana_cost": "",
+	        "type": "Basic Land — Swamp ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Vin%20Swamp.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Vin Mountain",
+	        "rarity": "special",
+	        "mana_cost": "",
+	        "type": "Basic Land — Mountain ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Vin%20Mountain.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Vin Forest",
+	        "rarity": "special",
+	        "mana_cost": "",
+	        "type": "Basic Land — Forest ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Vin%20Forest.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Crackling Plains",
+	        "rarity": "mythic",
+	        "mana_cost": "",
+	        "type": "Land — Fault Plains ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Crackling%20Plains.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Restored Plains",
+	        "rarity": "mythic",
+	        "mana_cost": "",
+	        "type": "Land — Plains ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Restored%20Plains.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Splintered Island",
+	        "rarity": "mythic",
+	        "mana_cost": "",
+	        "type": "Land — Fault Island ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Splintered%20Island.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Furrowed Mountain",
+	        "rarity": "mythic",
+	        "mana_cost": "",
+	        "type": "Land — Fault Mountain ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Furrowed%20Mountain.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Restored Island",
+	        "rarity": "mythic",
+	        "mana_cost": "",
+	        "type": "Land — Island ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Restored%20Island.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Restored Swamp",
+	        "rarity": "mythic",
+	        "mana_cost": "",
+	        "type": "Land — Swamp ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Restored%20Swamp.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Restored Mountain",
+	        "rarity": "mythic",
+	        "mana_cost": "",
+	        "type": "Land — Mountain ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Restored%20Mountain.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Restored Forest",
+	        "rarity": "mythic",
+	        "mana_cost": "",
+	        "type": "Land — Forest ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Restored%20Forest.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Rip to Today",
+	        "rarity": "mythic",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Rip%20to%20Today.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Divided Forest",
+	        "rarity": "mythic",
+	        "mana_cost": "",
+	        "type": "Land — Fault Forest ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Divided%20Forest.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Sundered Swamp",
+	        "rarity": "mythic",
+	        "mana_cost": "",
+	        "type": "Land — Fault Swamp ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Sundered%20Swamp.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Unstable Rift",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Unstable%20Rift.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Spire of Hunger",
+	        "rarity": "mythic",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Spire%20of%20Hunger.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Shimmering Path",
+	        "rarity": "mythic",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Shimmering%20Path.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Flashing Path",
+	        "rarity": "mythic",
+	        "mana_cost": "",
+	        "type": "Land — Fault ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Flashing%20Path.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Tethers of Insanity",
+	        "rarity": "common",
+	        "mana_cost": "{1}{U}{U}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Tethers%20of%20Insanity.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Ash to Hope",
+	        "rarity": "common",
+	        "mana_cost": "{2}{G}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Ash%20to%20Hope.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Eternity Siphon",
+	        "rarity": "common",
+	        "mana_cost": "{1}{B}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Eternity%20Siphon.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Tofnet Thrummer",
+	        "rarity": "uncommon",
+	        "mana_cost": "4",
+	        "type": "Creature — Bird ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Tofnet%20Thrummer.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Faloden Scavenger",
+	        "rarity": "common",
+	        "mana_cost": "4",
+	        "type": "Creature — Fox ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Faloden%20Scavenger.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Grazed by the Endless",
+	        "rarity": "common",
+	        "mana_cost": "{3}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Grazed%20by%20the%20Endless.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Choked Essence",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{C}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Choked%20Essence.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Enduring Sapling",
+	        "rarity": "mythic",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Enduring%20Sapling.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Avakin Hazeweaver",
+	        "rarity": "common",
+	        "mana_cost": "{U}",
+	        "type": "Creature — Bird Wizard Spellshaper ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Avakin%20Hazeweaver.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Verem-Volcano Keeper",
+	        "rarity": "rare",
+	        "mana_cost": "{6}",
+	        "type": "Creature — Wurm Warrior ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Verem-Volcano%20Keeper.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Vin-Fault",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Basic Land — Fault ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Vin-Fault.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Prophellos, Pathborn Hunger -- Masterpiece",
+	        "rarity": "rare",
+	        "mana_cost": "{5}",
+	        "type": "Legendary Creature — God ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Prophellos%20Pathborn%20Hunger.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Restored Fault",
+	        "rarity": "mythic",
+	        "mana_cost": "",
+	        "type": "Land — Fault ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Restored%20Fault.png?raw=true"
+	        }
+	    }
+	]
+[Settings]
+{
+	"name": "Vinimroth Eternities",
+	"withReplacement": true,
+	"boostersPerPlayer": 4,
+	"predeterminedLayouts": [
+		{"pathboundstart": 100},
+		{"Rare": 85, "mythic": 14, "pathbound": 1},
+		{"Rare": 85, "mythic": 14, "pathbound": 1},
+		{"Rare": 85, "mythic": 14, "pathbound": 1}
+],
+	"layouts": {
+		"Rare": {
+			"weight": 1,
+			"slots": {
+  				"rare": 1,
+  				"uncommon": 4,
+  				"common": 10
+			}
+		},
+		"mythic": {
+			"weight": 1,
+			"slots": {
+  				"mythic": 1,
+  				"uncommon": 3,
+  				"common": 10
+			}
+		},
+		"pathbound": {
+			"weight": 1,
+			"slots": {
+  				"pathbound": 15
+			}
+		},
+		"pathboundstart": {
+			"weight": 1,
+			"slots": {
+  				"pathbound": 5
+			}
+		}
+	}
+}
+	[pathbound]
+		10 Crackling Plains
+		10 Divided Forest
+		10 Furrowed Mountain
+		10 Restored Fault
+		10 Restored Forest
+		10 Restored Island
+		10 Restored Mountain
+		10 Restored Plains
+		10 Restored Swamp
+		10 Rip to Today
+		10 Runed Spire
+		10 Splintered Island
+		10 Sundered Swamp
+		10 Mordel Combatant
+		10 Path of Revival
+		10 Path of the Brood
+		10 Path of the Grove
+		10 Pathborn Aggression
+		10 Pathbound Bloom
+		10 Avlod Pathshaper
+		10 Breach of Malice
+		10 Breach of Protection
+		10 Fadove Reinforcement
+		10 Guardian Roost
+		10 Path of the Mighty
+		10 Path of the Proud
+		10 Path of the Rift
+		10 Path of the Roost
+		10 Pathborn Drake
+		10 Bearer of Change
+		10 Breach of Nature
+		10 Breach of Sanity
+		10 Breach of the Unknown
+		10 Fadove Pathwarden
+		10 Mordel Razer
+		10 Outlands Guardian
+		10 Paths Strider
+		10 Breach of Mortality
+		10 Eternities Weaver
+		10 Mordel Reinforcement
+		10 Outlands Pathwarden
+		10 Path of Insight
+		10 Mistveil Drake
+		10 Outlands Traveller
+		10 Path to Ages
+		10 Path to Restoration
+		10 Keeper of Faloden Woods
+		10 Verem-Volcano Keeper
+	[mythic]
+		4 Crackling Plains
+		4 Restored Plains
+		4 Splintered Island
+		4 Furrowed Mountain
+		4 Restored Island
+		4 Restored Swamp
+		4 Restored Mountain
+		4 Restored Forest
+		4 Rip to Today
+		4 Divided Forest
+		4 Sundered Swamp
+		4 Spire of Hunger
+		4 Shimmering Path
+		4 Flashing Path
+		4 Enduring Sapling
+		4 Restored Fault
+	[rare]
+		3 Ruins of Multa
+		3 Multaph, Riftborn God
+		3 Will of Roduth
+		3 Will of Multaph
+		3 Will of Destruction
+		3 The Great Tear
+		3 Multaphs Respite
+		3 The Wandering Cook
+		3 Najael, Travelling Shaman
+		3 Ruins of Uth
+		3 Will of Hunger
+		3 Roduth, God of Conflict
+		3 Thargle
+		3 Rip to Yesterday
+		3 Melodia, Voidtouched
+		3 Calia, Oracle of Tofnet Plains
+		3 Ola, Kaln-Ocean Spellkeeper
+		3 Kier, Acolyte of Avlod Respite
+		3 Vane, Verem-Volcano Scorcher
+		3 Somma, Blade of Faloden Woods
+		3 Khestri, Fadove Clanleader
+		3 Shivta, Avlod Clanleader
+		3 Urkial, Outlands Clanleader
+		3 Bruin Mentor
+		3 Raze the Clanless
+		3 Prismatic Offense
+		3 Korna, Vinimroth Historian
+		3 Zoslera, Mordel Clanleader
+		3 Prophellos, Pathborn Hunger
+		3 Dust for Dust
+		3 Pinnacle of Vinimroth
+		3 Attuned Shimmer
+		3 Bushy Shimmer
+		3 Wild Shimmer
+		3 Curious Shimmer
+		3 Pouncing Shimmer
+		3 Runed Spire
+		3 Fadove Pathwarden
+		3 Path of Insight
+		3 Path of Revival
+		3 Keeper of Faloden Woods
+		3 Mistveil Drake
+		3 Mordel Combatant
+		3 Bearer of Change
+		3 Mordel Razer
+		3 Pathborn Aggression
+		3 Eternities Weaver
+		3 Guardian Roost
+		3 Path to Restoration
+		3 Path to Ages
+		3 Breach of Protection
+		3 Breach of Sanity
+		3 Breach of Malice
+		3 Breach of Nature
+		3 Breach of Mortality
+		3 Breach of the Unknown
+		3 Path of the Grove
+		3 Pathborn Drake
+		3 Outlands Pathwarden
+		3 Verem-Volcano Keeper
+	[uncommon]
+		4 Drake Wrangler
+		4 Tofnet Riftstalker
+		4 Passage Overseer
+		4 Bruin Wanderer
+		4 Avakin Riftseeker
+		4 Untamed Drake
+		4 Aeon Awakener
+		4 Bulwark of the Thicket
+		4 Multaphs Riftwarden
+		4 Survivors Instinct
+		4 Entrance of Hunger
+		4 Aerial Roost
+		4 Soul Fire
+		4 Hired Enforcer
+		4 Perplexing Ray
+		4 Clanless Usurper
+		4 Opportunistic Scavenger
+		4 Outlands Bulwark
+		4 Mischievous Fox
+		4 Roduths Guard
+		4 Ageless History
+		4 Icebound Reinforcements
+		4 Blossoming Mentor
+		4 Accord Mentor
+		4 Eternal Mentor
+		4 Conflict Mentor
+		4 Outcast Mentor
+		4 Trusted Companion
+		4 Radiant Guide
+		4 Fadove Bodyguard
+		4 Combat Diviner
+		4 Denied by Nature
+		4 Storm Bearer
+		4 Resolute Watcher
+		4 Avakin Sayer
+		4 Avlod Diviner
+		4 Aspiring Mount
+		4 Scornful Pursuit
+		4 Avakin Mentor
+		4 Shaman of Rites Lost
+		4 Avakin Hireblade
+		4 Fervent Incandescence
+		4 Brood Protector
+		4 Minotaur Outlander
+		4 Mordel Excursionist
+		4 Torch
+		4 Rifttouched Ursine
+		4 Triumphant Riftcaller
+		4 Forest Assailant
+		4 Progeny of Bruin
+		4 Tidepool Scuttler
+		4 Explorers Compass
+		4 Pinnacle Wanderer
+		4 Frostnip Watcher
+		4 Shroud Walkers
+		4 Verem-Volcano Stalker
+		4 Wipe the Wicked
+		4 Stalwart Resolution
+		4 Fadove Willshaper
+		4 Returned from Beyond
+		4 Rift Burn
+		4 Scouts Bow
+		4 Study the Rifts
+		4 Multaphs Resplendant
+		4 Chromaboon Blade
+		4 Sage of the Aeons
+		4 Mistblade Rogue
+		4 Manifesting Ardor
+		4 Prismatic Powerstone
+		4 Verem-Volcano Warrior
+		4 Outlands Protector
+		4 Smoldering Entity
+		4 Skywatch Entity
+		4 Giants Blade
+		4 Midnight Raven
+		4 Faloden Thickets
+		4 Faloden Tear-Warden
+		4 Tofnet Predator
+		4 Malevolent Naginata
+		4 Skillful Blade
+		4 Tattered Entity
+		4 Crowned Entity
+		4 Usher of the Lost
+		4 Breaking the Mold
+		4 Called by the Void
+		4 Path of the Proud
+		4 Path of the Roost
+		4 Path of the Rift
+		4 Path of the Brood
+		4 Path of the Mighty
+		4 Unstable Rift
+		4 Tofnet Thrummer
+		4 Choked Essence
+	[common]
+		10 Rush Down
+		10 Purge the Clanless
+		10 Prismatism
+		10 Dust to Life
+		10 Fadove Initiate
+		10 Fadove Trainer
+		10 Fadove Tracker
+		10 Outlands Marauder
+		10 Wandering Soul
+		10 Fadove Drillmaster
+		10 Oathkeep Wurm
+		10 Drake Rider
+		10 Covetous Fox
+		10 Rebuke the Foul
+		10 Maddened by Hunger
+		10 Frostborn Sentinel
+		10 Respite Partisan
+		10 Due Dismissal
+		10 Repel the Invasion
+		10 Cooing Foundling
+		10 Avakin Avenger
+		10 Gateway Guardian
+		10 Avakin Riftwalker
+		10 Rift Tender
+		10 Waking Words
+		10 Avakin Cleaner
+		10 Avakin Assaulter
+		10 Left for the Crows
+		10 Weight of Betrayal
+		10 Iconic Resurgence
+		10 Avlod Necklace
+		10 Frontline Assaulter
+		10 Minotaur Riftcaller
+		10 Mordel Patrol
+		10 Tenuous Empowerment
+		10 Mordel Drillmaster
+		10 Verem-Volcano Rumbler
+		10 Stalking Entity
+		10 Iconic Resolution
+		10 Conscripted by the Clanless
+		10 Clanless Destruction
+		10 Unexpected Discovery
+		10 Lavaskimmer Wurm
+		10 Farming Wurm
+		10 Awakened Harmony
+		10 Mordel Formgiver
+		10 Outlands Diviner
+		10 Bruin Clankeeper
+		10 Multaphs Watch
+		10 Progeny of Mordel
+		10 Iconic Altercation
+		10 Boon of Roduth
+		10 Ripped into Eternity
+		10 Rippling Crustacean
+		10 Starbright Entity
+		10 Aspiring Entity
+		10 Wings of New Horizons
+		10 Rip to Tomorrow
+		10 Powerstone Claw
+		10 Wandering Entity
+		10 Pinnacle Skitter
+		10 Power of Oath
+		10 Iconic Absolution
+		10 Windshaper Drake
+		10 Blessing of Uth
+		10 Bruin Outlander
+		10 Dark Lessons
+		10 Towering Protector
+		10 Avakin Opportunist
+		10 Sage of Truths
+		10 Stalwart Guard
+		10 Outlands Wanderer
+		10 Frostborn Glimmer
+		10 Kaln-Ocean Cloak
+		10 Suffused Memories
+		10 Search For Wisdom
+		10 Avakin Watcher
+		10 Transient Eternity
+		10 Abrupt Death
+		10 Fleeting Ruin
+		10 Impetuous Eradication
+		10 Ephemeral Ordinance
+		10 Vanishing Resolve
+		10 Cursory Casualty
+		10 Transitory Refuge
+		10 Evanescent Impasse
+		10 Sublime Liquidation
+		10 Razorshell Drake
+		10 Voidborn Entity
+		10 Chittering Entity
+		10 Riftborn Flames
+		10 Shining Idol
+		10 Triumphant Entrance
+		10 Outlands Riftbearer
+		10 Mordel Clanwarden
+		10 Warden of the Lost
+		10 Warforged Herald
+		10 Iconic Incident
+		10 Mordel Warrior
+		10 Keeper of Calm
+		10 Avlod Bulwark
+		10 Remnant Awakener
+		10 Waterspout
+		10 Flaming Iron
+		10 Bark of Tofnet Plains
+		10 Kaln-Ocean Wispop
+		10 Pathborn Crackle
+		10 Guardian of Faloden Woods
+		10 Outlands Froststalker
+		10 Fog Walker
+		10 Dromencals Respite
+		10 Outlands Respite
+		10 Fadove Reinforcement
+		10 Avlod Pathshaper
+		10 Outlands Traveller
+		10 Mordel Reinforcement
+		10 Outlands Guardian
+		10 Paths Strider
+		10 Pathbound Bloom
+		10 Tethers of Insanity
+		10 Ash to Hope
+		10 Eternity Siphon
+		10 Faloden Scavenger
+		10 Grazed by the Endless
+		10 Avakin Hazeweaver
