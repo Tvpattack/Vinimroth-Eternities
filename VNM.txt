@@ -1748,7 +1748,7 @@
 	    {
 	        "name": "Multaphs Respite",
 	        "rarity": "rare",
-	        "mana_cost": "{2/U}{2/R}{2/W}",
+	        "mana_cost": "{C/U}{C/R}{C/W}",
 	        "type": "Legendary Enchantment",
 	        "image_uris": {
 	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Multaphs%20Respite.png?raw=true"
