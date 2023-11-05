@@ -1163,7 +1163,7 @@
 	    {
 	        "name": "Dark Lessons",
 	        "rarity": "common",
-	        "mana_cost": "{3}{B}",
+	        "mana_cost": "{2}{B}",
 	        "type": "Enchantment",
 	        "image_uris": {
 	            "en": "https://github.com/Tvpattack/Vinimroth-Eternities/blob/main/Dark%20Lessons.png?raw=true"

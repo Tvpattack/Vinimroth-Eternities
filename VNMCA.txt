@@ -1,0 +1,336 @@
+Name	CMC	Type	Color	Tags	Rarity	Override Name	Image URL	
+Drake Wrangler	5	Creature — Human 	WU		uncommon	Drake Wrangler		
+Tofnet Riftstalker	3	Creature — Hyena Scout 	WB		uncommon	Tofnet Riftstalker		
+Passage Overseer	3	Creature — Minotaur Scout 	WR		uncommon	Passage Overseer		
+Bruin Wanderer	3	Creature — Bear Scout 	WG		uncommon	Bruin Wanderer		
+Avakin Riftseeker	3	Creature — Bird Wizard 	UB		uncommon	Avakin Riftseeker		
+Untamed Drake	2	Creature — Drake 	UR		uncommon	Untamed Drake		
+Aeon Awakener	3	Creature — Human Wizard 	BG		uncommon	Aeon Awakener		
+Bulwark of the Thicket	4	Creature — Wurm Warrior 	RG		uncommon	Bulwark of the Thicket		
+Multaphs Riftwarden	4	Creature — Elk Shaman 	UG		uncommon	Multaphs Riftwarden		
+Rush Down	2	Instant	WR		common	Rush Down		
+Purge the Clanless	5	Instant	WB		common	Purge the Clanless		
+Survivors Instinct	1	Instant	WG		uncommon	Survivors Instinct		
+Entrance of Hunger	2	Instant	WU		uncommon	Entrance of Hunger		
+Prismatism	1	Instant	UR		common	Prismatism		
+Aerial Roost	4	Enchantment	UB		uncommon	Aerial Roost		
+Soul Fire	3	Instant	BR		uncommon	Soul Fire		
+Dust to Life	2	Instant	BG		common	Dust to Life		
+Hired Enforcer	4	Creature — Human Scout Mercenary 	WB		uncommon	Hired Enforcer		
+Perplexing Ray	3	Tribal Enchantment — Fish Entity 	UR		uncommon	Perplexing Ray		
+Clanless Usurper	5	Creature — Human Rogue 	UR		uncommon	Clanless Usurper		
+Opportunistic Scavenger	2	Tribal Enchantment — Squirrel Entity 	BG		uncommon	Opportunistic Scavenger		
+Outlands Bulwark	4	Creature — Human Warrior 	BG		uncommon	Outlands Bulwark		
+Mischievous Fox	2	Tribal Enchantment — Fox Entity 	WR		uncommon	Mischievous Fox		
+Roduths Guard	4	Creature — Wurm Warrior 	WR		uncommon	Roduths Guard		
+Ageless History	3	Tribal Enchantment — Turtle Entity 	UG		uncommon	Ageless History		
+Icebound Reinforcements	3	Creature — Human Scout 	UG		uncommon	Icebound Reinforcements		
+Blossoming Mentor	1	Creature — Human Cleric Shaman 	WG		uncommon	Blossoming Mentor		
+Accord Mentor	3	Creature — Elf Wizard 	WU		uncommon	Accord Mentor		
+Eternal Mentor	2	Creature — Human Zombie Shaman 	UB		uncommon	Eternal Mentor		
+Conflict Mentor	4	Creature — Human Warrior 	BR		uncommon	Conflict Mentor		
+Outcast Mentor	2	Creature — Human Warlock 	RG		uncommon	Outcast Mentor		
+Fadove Initiate	1	Creature — Human Scout 	W		common	Fadove Initiate		
+Fadove Trainer	1	Creature — Human Warrior Spellshaper 	W		common	Fadove Trainer		
+Trusted Companion	2	Creature — Drake 	W		uncommon	Trusted Companion		
+Fadove Tracker	2	Creature — Hyena Scout Spellshaper 	W		common	Fadove Tracker		
+Outlands Marauder	3	Creature — Hyena Warrior 	W		common	Outlands Marauder		
+Wandering Soul	3	Enchantment Creature — Icon Nomad 	W		common	Wandering Soul		
+Fadove Drillmaster	4	Creature — Hyena Warrior Spellshaper 	W		common	Fadove Drillmaster		
+Oathkeep Wurm	6	Creature — Wurm Warrior 	W		common	Oathkeep Wurm		
+Drake Rider	5	Creature — Human Scout 	W		common	Drake Rider		
+Radiant Guide	6	Enchantment Creature — Icon Cat 	W		uncommon	Radiant Guide		
+Covetous Fox	2	Tribal Enchantment — Fox Entity 	UB		common	Covetous Fox		
+Rebuke the Foul	2	Instant	W		common	Rebuke the Foul		
+Maddened by Hunger	3	Enchantment — Aura 	W		common	Maddened by Hunger		
+Fadove Bodyguard	2	Creature — Human Knight 	W		uncommon	Fadove Bodyguard		
+Combat Diviner	3	Creature — Wurm Warrior 	W		uncommon	Combat Diviner		
+Frostborn Sentinel	5	Enchantment Creature — Icon Soldier 	U		common	Frostborn Sentinel		
+Respite Partisan	4	Enchantment Creature — Icon Elk 	U		common	Respite Partisan		
+Due Dismissal	2	Instant	U		common	Due Dismissal		
+Denied by Nature	2	Instant	U		uncommon	Denied by Nature		
+Repel the Invasion	3	Instant	U		common	Repel the Invasion		
+Storm Bearer	2	Creature — Elf Warlock Spellshaper 	U		uncommon	Storm Bearer		
+Resolute Watcher	4	Enchantment Creature — Icon Warlock 	U		uncommon	Resolute Watcher		
+Avakin Sayer	3	Creature — Bird Warlock 	U		uncommon	Avakin Sayer		
+Avlod Diviner	2	Creature — Human Wizard 	U		uncommon	Avlod Diviner		
+Aspiring Mount	5	Creature — Drake 	U		uncommon	Aspiring Mount		
+Cooing Foundling	1	Creature — Bird Scout 	B		common	Cooing Foundling		
+Avakin Avenger	2	Creature — Bird Archer Spellshaper 	B		common	Avakin Avenger		
+Gateway Guardian	2	Creature — Human Warrior Spellshaper 	B		common	Gateway Guardian		
+Avakin Riftwalker	3	Creature — Bird Warlock 	B		common	Avakin Riftwalker		
+Rift Tender	3	Creature — Human Shaman Spellshaper 	B		common	Rift Tender		
+Waking Words	4	Enchantment Creature — Icon Rogue 	B		common	Waking Words		
+Avakin Cleaner	3	Creature — Bird Scout 	B		common	Avakin Cleaner		
+Avakin Assaulter	5	Creature — Bird Warrior 	B		common	Avakin Assaulter		
+Scornful Pursuit	5	Enchantment Creature — Icon Rogue 	B		uncommon	Scornful Pursuit		
+Left for the Crows	4	Sorcery	B		common	Left for the Crows		
+Weight of Betrayal	1	Enchantment — Aura 	B		common	Weight of Betrayal		
+Iconic Resurgence	1	Instant	B		common	Iconic Resurgence		
+Avlod Necklace	1	Artifact — Equipment 	B		common	Avlod Necklace		
+Avakin Mentor	3	Creature — Bird Wizard Spellshaper 	B		uncommon	Avakin Mentor		
+Shaman of Rites Lost	2	Creature — Human Warlock 	B		uncommon	Shaman of Rites Lost		
+Avakin Hireblade	4	Creature — Bird Mercenary 	B		uncommon	Avakin Hireblade		
+Frontline Assaulter	1	Creature — Minotaur Warrior Spellshaper 	R		common	Frontline Assaulter		
+Minotaur Riftcaller	2	Creature — Minotaur Shaman 	R		common	Minotaur Riftcaller		
+Fervent Incandescence	2	Enchantment Creature — Icon Wizard 	R		uncommon	Fervent Incandescence		
+Mordel Patrol	3	Creature — Human Warrior 	R		common	Mordel Patrol		
+Tenuous Empowerment	3	Enchantment Creature — Icon Wizard 	R		common	Tenuous Empowerment		
+Mordel Drillmaster	5	Creature — Minotaur Warrior Spellshaper 	R		common	Mordel Drillmaster		
+Verem-Volcano Rumbler	4	Creature — Wurm Warrior 	R		common	Verem-Volcano Rumbler		
+Stalking Entity	3	Tribal Enchantment — Cat Entity 	RG		common	Stalking Entity		
+Iconic Resolution	2	Instant	R		common	Iconic Resolution		
+Conscripted by the Clanless	3	Sorcery	R		common	Conscripted by the Clanless		
+Clanless Destruction	1	Enchantment	R		common	Clanless Destruction		
+Unexpected Discovery	3	Sorcery	R		common	Unexpected Discovery		
+Brood Protector	3	Enchantment Creature — Icon Wurm 	R		uncommon	Brood Protector		
+Minotaur Outlander	4	Creature — Minotaur Warrior Spellshaper 	R		uncommon	Minotaur Outlander		
+Mordel Excursionist	1	Creature — Human Scout Spellshaper 	R		uncommon	Mordel Excursionist		
+Lavaskimmer Wurm	6	Creature — Wurm Shaman 	R		common	Lavaskimmer Wurm		
+Torch	1	Instant	R		uncommon	Torch		
+Farming Wurm	1	Creature — Wurm Shaman 	G		common	Farming Wurm		
+Awakened Harmony	3	Enchantment Creature — Icon Druid 	G		common	Awakened Harmony		
+Mordel Formgiver	3	Creature — Wurm Warlock 	G		common	Mordel Formgiver		
+Outlands Diviner	4	Creature — Wurm Warlock Spellshaper 	G		common	Outlands Diviner		
+Bruin Clankeeper	4	Creature — Bear Warrior 	G		common	Bruin Clankeeper		
+Multaphs Watch	5	Creature — Elk 	G		common	Multaphs Watch		
+Progeny of Mordel	6	Creature — Wurm Warrior 	G		common	Progeny of Mordel		
+Iconic Altercation	2	Instant	G		common	Iconic Altercation		
+Boon of Roduth	1	Instant	G		common	Boon of Roduth		
+Ripped into Eternity	2	Instant	G		common	Ripped into Eternity		
+Rifttouched Ursine	2	Creature — Bear Shaman 	G		uncommon	Rifttouched Ursine		
+Triumphant Riftcaller	4	Creature — Bear Berserker 	G		uncommon	Triumphant Riftcaller		
+Forest Assailant	5	Enchantment Creature — Icon Barbarian 	G		uncommon	Forest Assailant		
+Progeny of Bruin	7	Creature — Wurm Shaman 	G		uncommon	Progeny of Bruin		
+Rippling Crustacean	2	Creature — Crab 			common	Rippling Crustacean		
+Starbright Entity	2	Tribal Enchantment — Cat Entity 			common	Starbright Entity		
+Aspiring Entity	4	Tribal Enchantment — Elk Entity 			common	Aspiring Entity		
+Wings of New Horizons	1	Artifact — Equipment 			common	Wings of New Horizons		
+Rip to Tomorrow	0	Land			common	Rip to Tomorrow		
+Powerstone Claw	1	Artifact			common	Powerstone Claw		
+Wandering Entity	1	Tribal Enchantment — Cat Entity 			common	Wandering Entity		
+Pinnacle Skitter	4	Creature — Snake 			common	Pinnacle Skitter		
+Tidepool Scuttler	6	Creature — Octopus Fish 			uncommon	Tidepool Scuttler		
+Explorers Compass	1	Artifact — Equipment 			uncommon	Explorers Compass		
+Pinnacle Wanderer	4	Creature — Incarnation 	W		uncommon	Pinnacle Wanderer		
+Frostnip Watcher	4	Creature — Incarnation 	U		uncommon	Frostnip Watcher		
+Shroud Walkers	5	Creature — Nightmare 	B		uncommon	Shroud Walkers		
+Verem-Volcano Stalker	5	Creature — Incarnation 	R		uncommon	Verem-Volcano Stalker		
+Power of Oath	1	Enchantment — Aura 	W		common	Power of Oath		
+Iconic Absolution	3	Instant	W		common	Iconic Absolution		
+Wipe the Wicked	3	Enchantment	W		uncommon	Wipe the Wicked		
+Stalwart Resolution	3	Instant	W		uncommon	Stalwart Resolution		
+Fadove Willshaper	4	Creature — Human Cleric Spellshaper 	W		uncommon	Fadove Willshaper		
+Returned from Beyond	6	Sorcery	B		uncommon	Returned from Beyond		
+Rift Burn	4	Instant	R		uncommon	Rift Burn		
+Windshaper Drake	2	Enchantment Creature — Drake 	U		common	Windshaper Drake		
+Study the Rifts	4	Instant	U		uncommon	Study the Rifts		
+Blessing of Uth	2	Artifact — Equipment 	G		common	Blessing of Uth		
+Multaphs Resplendant	3	Enchantment Creature — Icon Elk 	G		uncommon	Multaphs Resplendant		
+Bruin Outlander	2	Creature — Bear Scout 	G		common	Bruin Outlander		
+Dark Lessons	3	Enchantment — Aura 	B		common	Dark Lessons		
+Chromaboon Blade	1	Artifact — Equipment 	R		uncommon	Chromaboon Blade		
+Towering Protector	4	Artifact Creature — Construct 	R		common	Towering Protector		
+Sage of the Aeons	2	Creature — Human Warlock 	BR		uncommon	Sage of the Aeons		
+Avakin Opportunist	2	Creature — Bird Warlock 	U		common	Avakin Opportunist		
+Sage of Truths	1	Creature — Elf Shaman Spellshaper 	U		common	Sage of Truths		
+Stalwart Guard	4	Tribal Enchantment — Wolf Entity 	WU		common	Stalwart Guard		
+Outlands Wanderer	2	Creature — Human Scout Spellshaper 	U		common	Outlands Wanderer		
+Frostborn Glimmer	3	Enchantment Creature — Icon Bird 	U		common	Frostborn Glimmer		
+Kaln-Ocean Cloak	1	Artifact — Equipment 	U		common	Kaln-Ocean Cloak		
+Suffused Memories	2	Instant	U		common	Suffused Memories		
+Search For Wisdom	3	Sorcery	U		common	Search For Wisdom		
+Avakin Watcher	4	Creature — Bird Warlock Spellshaper 	U		common	Avakin Watcher		
+Transient Eternity	3	Enchantment Creature — Icon Wizard 	WU		common	Transient Eternity		
+Abrupt Death	4	Enchantment Creature — Icon Scout 	UB		common	Abrupt Death		
+Fleeting Ruin	2	Enchantment Creature — Icon Rogue 	BR		common	Fleeting Ruin		
+Impetuous Eradication	4	Enchantment Creature — Icon Berserker 	RG		common	Impetuous Eradication		
+Ephemeral Ordinance	5	Enchantment Creature — Icon Warrior 	WG		common	Ephemeral Ordinance		
+Vanishing Resolve	2	Enchantment Creature — Icon Warlock 	WB		common	Vanishing Resolve		
+Cursory Casualty	3	Enchantment Creature — Icon Warlock 	BG		common	Cursory Casualty		
+Transitory Refuge	5	Enchantment Creature — Icon Nomad 	UG		common	Transitory Refuge		
+Evanescent Impasse	3	Enchantment Creature — Icon Mystic 	UR		common	Evanescent Impasse		
+Sublime Liquidation	3	Enchantment Creature — Icon Warrior 	WR		common	Sublime Liquidation		
+Mistblade Rogue	3	Enchantment Creature — Icon Rogue 	B		uncommon	Mistblade Rogue		
+Manifesting Ardor	3	Enchantment Creature — Icon Druid 	G		uncommon	Manifesting Ardor		
+Prismatic Powerstone	3	Artifact			uncommon	Prismatic Powerstone		
+Razorshell Drake	6	Creature — Drake Turtle 	U		common	Razorshell Drake		
+Verem-Volcano Warrior	6	Creature — Wurm Warrior 	R		uncommon	Verem-Volcano Warrior		
+Outlands Protector	1	Creature — Human Mercenary Spellshaper 	G		uncommon	Outlands Protector		
+Smoldering Entity	1	Tribal Enchantment — Dragon Entity 	R		uncommon	Smoldering Entity		
+Skywatch Entity	2	Tribal Enchantment — Bird Entity 	U		uncommon	Skywatch Entity		
+Giants Blade	3	Artifact — Equipment 	W		uncommon	Giants Blade		
+Voidborn Entity	2	Tribal Enchantment — Rat Entity 	BR		common	Voidborn Entity		
+Chittering Entity	1	Tribal Enchantment — Squirrel Entity 	WG		common	Chittering Entity		
+Riftborn Flames	4	Instant	R		common	Riftborn Flames		
+Shining Idol	2	Enchantment Creature — Icon Cleric 	W		common	Shining Idol		
+Triumphant Entrance	3	Enchantment	W		common	Triumphant Entrance		
+Midnight Raven	1	Tribal Enchantment — Bird Entity 	WB		uncommon	Midnight Raven		
+Outlands Riftbearer	2	Creature — Human Warlock Spellshaper 	W		common	Outlands Riftbearer		
+Mordel Clanwarden	2	Creature — Human Scout 	G		common	Mordel Clanwarden		
+Warden of the Lost	2	Creature — Human Shaman 	B		common	Warden of the Lost		
+Warforged Herald	2	Creature — Human Warrior Spellshaper 	R		common	Warforged Herald		
+Iconic Incident	2	Instant	U		common	Iconic Incident		
+Mordel Warrior	2	Creature — Bear Warrior Spellshaper 	G		common	Mordel Warrior		
+Keeper of Calm	3	Creature — Bear Shaman Spellshaper 	G		common	Keeper of Calm		
+Avlod Bulwark	6	Creature — Human Warlock Spellshaper 	B		common	Avlod Bulwark		
+Faloden Thickets	5	Creature — Plant 	G		uncommon	Faloden Thickets		
+Faloden Tear-Warden	2	Creature — Beast 			uncommon	Faloden Tear-Warden		
+Tofnet Predator	4	Creature — Insect 			uncommon	Tofnet Predator		
+Remnant Awakener	5	Creature — Nightmare 			common	Remnant Awakener		
+Waterspout	2	Sorcery	UG		common	Waterspout		
+Malevolent Naginata	1	Artifact — Equipment 	B		uncommon	Malevolent Naginata		
+Skillful Blade	2	Artifact — Equipment 	U		uncommon	Skillful Blade		
+Tattered Entity	2	Tribal Enchantment — Spirit Entity 	B		uncommon	Tattered Entity		
+Crowned Entity	4	Tribal Enchantment — Elk Entity 	G		uncommon	Crowned Entity		
+Flaming Iron	2	Artifact — Equipment 	R		common	Flaming Iron		
+Usher of the Lost	3	Tribal Enchantment — Elk Entity 	W		uncommon	Usher of the Lost		
+Voidstone Shard	2	Enchantment			special	Voidstone Shard		
+Reformed Rift	0	Land			special	Reformed Rift		
+Vin-Mountain	0	Basic Land — Mountain 			special	Vin-Mountain		
+Subdued Rift	1	Skill Sorcery	WB		special	Subdued Rift		
+Hollow Graze	2	Skill Instant	UB		special	Hollow Graze		
+Ever Vigilant	2	Skill Sorcery	UG		special	Ever Vigilant		
+Steady Growth	2	Enchantment	BG		special	Steady Growth		
+Prepared Strike	1	Skill Sorcery	R		special	Prepared Strike		
+In the Moment	2	Skill Sorcery	R		special	In the Moment		
+Reshape Will	2	Skill Instant	WU		special	Reshape Will		
+Readied Assault	4	Skill Sorcery	WR		special	Readied Assault		
+Military Training	1	Skill Instant	WG		special	Military Training		
+GreenVinWurm	0	Token Creature — Wurm 			special	GreenVinWurm		
+WhiteVinWurm	0	Token Creature — Wurm 			special	WhiteVinWurm		
+VinRedWurm	0	Token Creature — Wurm 			special	VinRedWurm		
+VinDrake	0	Token Creature — Drake 			special	VinDrake		
+Icebound Reinforcements Token	3	Token Creature — Human Scout 	UG		special	Icebound Reinforcements Token		
+Luminous	0	Token Reminder			special	Luminous		
+Breaking the Mold	2	Instant	RG		uncommon	Breaking the Mold		
+Cat Token	0	Token Enchantment Creature — Cat 			common	Cat Token		
+Warped Exploration	2	Skill Sorcery			special	Warped Exploration		
+Vin-Blue-Drake	0	Token Creature — Drake 			special	Vin-Blue-Drake		
+Vin-Plains	0	Basic Land — Plains 			special	Vin-Plains		
+Vin-Island	0	Basic Land — Island 			special	Vin-Island		
+Vin-Swamp	0	Basic Land — Swamp 			special	Vin-Swamp		
+Vin-Forest	0	Basic Land — Forest 			special	Vin-Forest		
+Harsh Reprise	1	Skill Instant	B		special	Harsh Reprise		
+Ruins of Multa	3	Legendary Enchantment Artifact	W		rare	Ruins of Multa		
+Multaph Riftborn God	3	Legendary Enchantment Creature — Icon Elk God 	UB		rare	Multaph Riftborn God		
+Will of Roduth	3	Creature — God Wurm Reflection 	R		rare	Will of Roduth		
+Will of Multaph	3	Creature — God Elk Reflection 	U		rare	Will of Multaph		
+Will of Destruction	4	Legendary Enchantment Creature — Reflection Wizard 	UBR		rare	Will of Destruction		
+The Great Tear	6	Sorcery	W		rare	The Great Tear		
+Multaphs Respite	3	Legendary Enchantment	WUR		rare	Multaphs Respite		
+The Wandering Cook	4	Legendary Enchantment Creature — Bird 			rare	The Wandering Cook		
+Najael Travelling Shaman	4	Legendary Enchantment Creature — Human Shaman 	UG		rare	Najael Travelling Shaman		
+Called by the Void	2	Instant	B		uncommon	Called by the Void		
+Ruins of Uth	6	Legendary Enchantment Artifact	G		rare	Ruins of Uth		
+Will of Hunger	3	Creature — Reflection 			rare	Will of Hunger		
+Roduth God of Conflict	5	Legendary Enchantment Creature — Wurm Elk God 	WRG		rare	Roduth God of Conflict		
+Thargle	5	Legendary Creature — Frog Demon 	B		rare	Thargle		
+Cut from Void	3	Skill Instant	U		special	Cut from Void		
+Rip to Yesterday	0	Land			rare	Rip to Yesterday		
+Bark of Tofnet Plains	5	Creature — Plant 			common	Bark of Tofnet Plains		
+Kaln-Ocean Wispop	3	Creature — Jellyfish 			common	Kaln-Ocean Wispop		
+Pathborn Crackle	2	Creature — Elemental 			common	Pathborn Crackle		
+Guardian of Faloden Woods	6	Creature — Beast 	G		common	Guardian of Faloden Woods		
+Outlands Froststalker	4	Creature — Cat Beast 	B		common	Outlands Froststalker		
+Fog Walker	2	Creature — Insect 			common	Fog Walker		
+Dromencals Respite	3	Enchantment			common	Dromencals Respite		
+Outlands Respite	2	Enchantment			common	Outlands Respite		
+Melodia Voidtouched	6	Legendary Enchantment Creature — Human Wizard 			rare	Melodia Voidtouched		
+Calia Oracle of Tofnet Plains	4	Legendary Enchantment Creature — Icon Wizard 	W		rare	Calia Oracle of Tofnet Plains		
+Ola Kaln-Ocean Spellkeeper	3	Legendary Enchantment Creature — Icon Wurm 	U		rare	Ola Kaln-Ocean Spellkeeper		
+Kier Acolyte of Avlod Respite	2	Legendary Enchantment Creature — Icon Warlock 	B		rare	Kier Acolyte of Avlod Respite		
+Vane Verem-Volcano Scorcher	4	Legendary Enchantment Creature — Icon Dragon 	R		rare	Vane Verem-Volcano Scorcher		
+Somma Blade of Faloden Woods	6	Legendary Enchantment Creature — Icon Giant 	G		rare	Somma Blade of Faloden Woods		
+Khestri Fadove Clanleader	3	Legendary Creature — Human Knight 	W		rare	Khestri Fadove Clanleader		
+Shivta Avlod Clanleader	3	Legendary Creature — Bird Rogue 	UB		rare	Shivta Avlod Clanleader		
+Urkial Outlands Clanleader	5	Legendary Creature — Bear Shaman 			rare	Urkial Outlands Clanleader		
+Bruin Mentor	2	Creature — Bear Scout Spellshaper 	G		rare	Bruin Mentor		
+Raze the Clanless	2	Instant	R		rare	Raze the Clanless		
+Prismatic Offense	3	Enchantment Creature — Elk Shaman 	RG		rare	Prismatic Offense		
+VinBlackWurm	0	Token Creature — Wurm 			special	VinBlackWurm		
+Korna Vinimroth Historian	2	Legendary Tribal Enchantment — Wurm Entity 	WR		rare	Korna Vinimroth Historian		
+Zoslera Mordel Clanleader	5	Legendary Creature — Human Knight 	RG		rare	Zoslera Mordel Clanleader		
+Prophellos Pathborn Hunger	5	Legendary Creature — God 			rare	Prophellos Pathborn Hunger		
+Dust for Dust	2	Sorcery	B		rare	Dust for Dust		
+Sanctum Reminder	0	Reminder			special	Sanctum Reminder		
+Pinnacle of Vinimroth	3	Legendary Enchantment Artifact	R		rare	Pinnacle of Vinimroth		
+Attuned Shimmer	4	Tribal Enchantment — Cat Entity 	WB		rare	Attuned Shimmer		
+Bushy Shimmer	4	Tribal Enchantment — Squirrel Entity 	BG		rare	Bushy Shimmer		
+Wild Shimmer	4	Tribal Enchantment — Wolf Entity 	UG		rare	Wild Shimmer		
+Curious Shimmer	4	Tribal Enchantment — Wurm Entity 	UR		rare	Curious Shimmer		
+Pouncing Shimmer	4	Tribal Enchantment — Cat Entity 	WR		rare	Pouncing Shimmer		
+Multaphs Respites Spellbook	0	Spellbook Reminder token			special	Multaphs Respites Spellbook		
+Runed Spire	0	Land			rare	Runed Spire		
+Pathbound	0	Reminder			special	Pathbound		
+Fadove Pathwarden	3	Creature — Human Warrior 	W		rare	Fadove Pathwarden		
+Path of Insight	4	Sorcery	U		rare	Path of Insight		
+Path of Revival	1	Sorcery	B		rare	Path of Revival		
+Keeper of Faloden Woods	6	Creature — Wurm Druid 	G		rare	Keeper of Faloden Woods		
+Mistveil Drake	5	Creature — Drake 			rare	Mistveil Drake		
+Mordel Combatant	1	Creature — Human Warrior 	R		rare	Mordel Combatant		
+Bearer of Change	3	Creature — Elf Spellshaper 	U		rare	Bearer of Change		
+Mordel Razer	3	Creature — Human Wizard 	R		rare	Mordel Razer		
+Pathborn Aggression	1	Enchantment Creature — Icon Warlock 	B		rare	Pathborn Aggression		
+Eternities Weaver	2	Creature — Human Druid 	G		rare	Eternities Weaver		
+Guardian Roost	2	Creature — Drake 	W		rare	Guardian Roost		
+Path to Restoration	5	Sorcery	W		rare	Path to Restoration		
+Path to Ages	5	Sorcery	R		rare	Path to Ages		
+Breach of Protection	3	Enchantment	W		rare	Breach of Protection		
+Breach of Sanity	3	Enchantment	U		rare	Breach of Sanity		
+Breach of Malice	3	Enchantment	R		rare	Breach of Malice		
+Breach of Nature	3	Enchantment	G		rare	Breach of Nature		
+Breach of Mortality	4	Enchantment	B		rare	Breach of Mortality		
+Breach of the Unknown	3	Enchantment — Aura 			rare	Breach of the Unknown		
+Path of the Grove	1	Sorcery	G		rare	Path of the Grove		
+Pathborn Drake	2	Creature — Drake 	U		rare	Pathborn Drake		
+Outlands Pathwarden	4	Creature — Bird Warrior 	B		rare	Outlands Pathwarden		
+Fadove Reinforcement	2	Creature — Hyena Warrior 	W		common	Fadove Reinforcement		
+Avlod Pathshaper	2	Creature — Human Wizard 	U		common	Avlod Pathshaper		
+Outlands Traveller	5	Creature — Human Warrior 	B		common	Outlands Traveller		
+Mordel Reinforcement	4	Creature — Minotaur Warrior 	R		common	Mordel Reinforcement		
+Outlands Guardian	3	Creature — Bear Warrior 	G		common	Outlands Guardian		
+Paths Strider	3	Creature — Beast 			common	Paths Strider		
+Path of the Proud	2	Enchantment	W		uncommon	Path of the Proud		
+Path of the Roost	2	Enchantment	U		uncommon	Path of the Roost		
+Path of the Rift	2	Enchantment	B		uncommon	Path of the Rift		
+Path of the Brood	1	Enchantment	R		uncommon	Path of the Brood		
+Path of the Mighty	2	Enchantment	G		uncommon	Path of the Mighty		
+Pathbound Bloom	1	Artifact			common	Pathbound Bloom		
+Vin Plains	0	Basic Land — Plains 			special	Vin Plains		
+Vin Island	0	Basic Land — Island 			special	Vin Island		
+Vin Swamp	0	Basic Land — Swamp 			special	Vin Swamp		
+Vin Mountain	0	Basic Land — Mountain 			special	Vin Mountain		
+Vin Forest	0	Basic Land — Forest 			special	Vin Forest		
+Crackling Plains	0	Land			mythic rare	Crackling Plains		
+Restored Plains	0	Land			mythic rare	Restored Plains		
+Splintered Island	0	Land			mythic rare	Splintered Island		
+Furrowed Mountain	0	Land			mythic rare	Furrowed Mountain		
+Restored Island	0	Land			mythic rare	Restored Island		
+Restored Swamp	0	Land			mythic rare	Restored Swamp		
+Restored Mountain	0	Land			mythic rare	Restored Mountain		
+Restored Forest	0	Land			mythic rare	Restored Forest		
+Rip to Today	0	Land			mythic rare	Rip to Today		
+Divided Forest	0	Land			mythic rare	Divided Forest		
+Sundered Swamp	0	Land			mythic rare	Sundered Swamp		
+Unstable Rift	0	Land			uncommon	Unstable Rift		
+Spire of Hunger	0	Land			mythic rare	Spire of Hunger		
+Shimmering Path	0	Land			mythic rare	Shimmering Path		
+Flashing Path	0	Land			mythic rare	Flashing Path		
+Tethers of Insanity	3	Enchantment — Aura 	U		common	Tethers of Insanity		
+Eternity Siphon	2	Sorcery	B		common	Eternity Siphon		
+Tofnet Thrummer	4	Creature — Bird 			uncommon	Tofnet Thrummer		
+Faloden Scavenger	4	Creature — Fox 			common	Faloden Scavenger		
+Grazed by the Endless	3	Instant			common	Grazed by the Endless		
+Choked Essence	2	Instant			uncommon	Choked Essence		
+Enduring Sapling	0	Land			mythic rare	Enduring Sapling		
+Avakin Hazeweaver	1	Creature — Bird Wizard Spellshaper 	U		common	Avakin Hazeweaver		
+Verem-Volcano Keeper	6	Creature — Wurm Warrior 			rare	Verem-Volcano Keeper		
+Vin-Fault-Conjure	0	Basic Land — Fault 			special	Vin-Fault-Conjure		
+Vin-Fault	0	Basic Land — Fault 			basic land	Vin-Fault		
+1 Counter	6		WUBRG		common	1 Counter		
+Prophellos Pathborn Hunger — Masterpiece	5	Legendary Creature — God 			masterpiece	Prophellos Pathborn Hunger — Masterpiece		
+Restored Fault	0	Land			mythic rare	Restored Fault		
+Ash to Hope	3	Sorcery	G		common	Ash to Hope		
+Scouts Bow	1	Artifact — Equipment 	G		uncommon	Scouts Bow		
+xXDust420Xx	2	Sorcery	B		masterpiece	xXDust420Xx		
